@@ -1,14 +1,6 @@
----
-title: Format Normalization: Whitelist for Formats with good Preservation Properties
-author: |
-        | Peter Bubestinger-Steindl
-        | (p.bubestinger@av-rd.com)
-geometry: a4paper, margin=2cm
-toc: no
-toc-depth: 2
-linkcolor: blue
+title: "Format Normalization: Whitelist for Formats with good Preservation Properties"
 date: Started on 2019-07-02 (published 2022-10)
----
+categories: knowhow born-digital ingest formats
 
 
 # Abstract
